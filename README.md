@@ -8,7 +8,8 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://sanjusazid.netlify.app/](https://sanjusazid.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shaiksajidhussain.github.io/personal_portfolio/](https://shaiksajidhussain.github.io/personal_portfolio/)
+- 👨‍💻 My Old Portfolio is available at [https://sanjusazid.netlify.app/](https://sanjusazid.netlify.app/)
 
 - 💬 Ask me about **Front End Development , Figma , React Js**
 
