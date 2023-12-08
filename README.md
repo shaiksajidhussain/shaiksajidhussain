@@ -1,5 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sanjusazid.netlify.app/)
-<h1 align="center">Hi 👋, I'm Sajid Hussain</h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+<h1 align="center">Hi 👋, I'm Mubashira Nazneen</h1>
 <h3 align="center">A passionate frontend developer and Java Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaiksajidhussain&label=Profile%20views&color=0e75b6&style=flat" alt="shaiksajidhussain" /> </p>
@@ -8,12 +8,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://shaiksajidhussain.github.io/personal_portfolio/](https://shaiksajidhussain.github.io/personal_portfolio/)
-
-
 - 💬 Ask me about **Front End Development, Figma, Java, Spring, **
 
-- 📫 How to reach me **sanjusazid0@gmail.com**
+- 📫 How to reach me **mubashira.0710@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
